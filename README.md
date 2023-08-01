@@ -10,7 +10,6 @@ To run this project, you will need to have Python installed on your machine. You
 You can install these libraries using pip by running the following command:
 
 `pip install pandas nltk scikit-learn`
-Copy
 ## Data
 The data used in this project comes from the IMDb movie reviews dataset on Kaggle. This dataset contains movie reviews labeled as either positive or negative.
 
