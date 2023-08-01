@@ -4,12 +4,12 @@ This project is a Python-based sentiment analysis tool that uses the NLTK librar
 ## Getting Started
 To run this project, you will need to have Python installed on your machine. You will also need to install the following libraries:
 
-pandas
-nltk
-scikit-learn
+- pandas
+- nltk
+- scikit-learn
 You can install these libraries using pip by running the following command:
 
-pip install pandas nltk scikit-learn
+`pip install pandas nltk scikit-learn`
 Copy
 ## Data
 The data used in this project comes from the IMDb movie reviews dataset on Kaggle. This dataset contains movie reviews labeled as either positive or negative.
