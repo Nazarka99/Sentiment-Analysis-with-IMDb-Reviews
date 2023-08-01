@@ -7,6 +7,7 @@ To run this project, you will need to have Python installed on your machine. You
 - pandas
 - nltk
 - scikit-learn
+
 You can install these libraries using pip by running the following command:
 
 `pip install pandas nltk scikit-learn`
